@@ -1,7 +1,5 @@
-<a href="https://komarev.com/ghpvc/?username=shubh-shukla">
 
- 
-</a>
+
 <br>
 
 <!-- Intro  -->
