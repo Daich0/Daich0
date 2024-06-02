@@ -1,10 +1,4 @@
 
-
-<br>
-
-<!-- Intro  -->
-<p align="center"><a target="_blank" href="https://shubham-shukla.vercel.app"><img width="60%" alt="Hello, I'm Shubham" src="./assets/greet.png" /></a></p>
-
 <p align="center"> 
   <samp>
     <br>
