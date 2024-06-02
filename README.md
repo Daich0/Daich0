@@ -91,13 +91,13 @@
 </p>
 
 <a> 
-    <a href="https://github.com/shubh-shukla"><img alt="Shubham Shukla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shubh-shukla&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/shubh-shukla"><img alt="Shubham Shukla's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shubh-shukla&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Daich0"><img alt="Daich0's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Daich0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Daich0"><img alt="Daich0's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Daich0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Shubham Shukla's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubh-shukla&custom_title=Shubham%20Shukla's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shubham Shukla's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Daich0&custom_title=Shubham%20Shukla's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <h2 align="center">🤝 Support</h2>
 
@@ -105,7 +105,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India 🇮🇳</p>
+<p align="center">Made with ❤️ in Perú 🇮🇳</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
