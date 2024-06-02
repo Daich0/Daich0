@@ -1,5 +1,6 @@
 <a href="https://komarev.com/ghpvc/?username=shubh-shukla">
-  <img align="right" src="https://komarev.com/ghpvc/?username=shubh-shukla&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+
+ 
 </a>
 <br>
 
@@ -9,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Full Stack Web/Mobile developer from <b>Uttarakhand, India</b> 🇮🇳 」
+    「 I am a Full Stack Web/Mobile developer from <b>Huancayo, Perú</b> 🇮🇳 」
     <br>
     <br>
   </samp>
@@ -40,12 +41,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- 💼 &emsp; Software Engineer at [Metricstream](https://www.metricstream.com) <br/><br/>
+ 💼 &emsp; Systems Engineer at [Metricstream](https://www.metricstream.com) <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; I love writing JavaScript, and building fun experiments on type-level<br/><br/>
- 📄 &emsp; Checkout my [resume](https://shubham-shukla.vercel.app/files/shubham-cv-2024.pdf)<br/><br/>
- 📧 &emsp; Reach me anytime: shukla111shubh@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/shubh-shukla/shubh-shukla/issues)
+ ❤️ &emsp; I love writing Java, and building fun experiments on Python<br/><br/>
+ 📄 &emsp; Checkout my [resume]()<br/><br/>
+ 📧 &emsp; Reach me anytime: lbeduardo8@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Daich0/Daich0/issues)
 
 </p>
 
@@ -87,11 +88,6 @@
 <br/>
 
 ## Top Open Source -
-[![ChatSphere](https://github-readme-stats.vercel.app/api/pin/?username=shubh-shukla&repo=ChatSphere&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shubh-shukla/ChatSphere)
-[![XtraTune](https://github-readme-stats.vercel.app/api/pin/?username=shubh-shukla&repo=XtraTune&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shubh-shukla/XtraTune)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shubh-shukla&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shubh-shukla/Portfolio)
-[![Youtube Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=shubh-shukla&repo=YoutubeApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shubh-shukla/YoutubeApp)
-
 <p align="left">
   <a href="https://github.com/shubh-shukla?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
