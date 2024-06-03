@@ -27,7 +27,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- 💼 &emsp; Systems Engineer at [Metricstream](https://www.metricstream.com) <br/><br/>
+ 💼 &emsp; Systems Engineer from [UNCP](https://uncp.edu.pe/) <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; I love writing Java, and building fun experiments on Python<br/><br/>
  📄 &emsp; Checkout my [resume]()<br/><br/>
@@ -94,7 +94,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Perú 🇮🇳</p>
+<p align="center">Made with ❤️ in Perú 🇵🇪</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
