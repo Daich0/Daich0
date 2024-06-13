@@ -2,7 +2,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Full Stack Web/Mobile developer from <b>Huancayo, Perú</b> 🇮🇳 」
+    「 I am a Full Stack Web/Mobile developer from <b>Huancayo, Perú</b> 🇵🇪 」
     <br>
     <br>
   </samp>
